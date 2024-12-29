@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QuickMart/static/css/main.c5dfee27.css",
+    "main.js": "/QuickMart/static/js/main.1df187aa.js",
+    "static/js/488.8b247e29.chunk.js": "/QuickMart/static/js/488.8b247e29.chunk.js",
+    "index.html": "/QuickMart/index.html",
+    "main.c5dfee27.css.map": "/QuickMart/static/css/main.c5dfee27.css.map",
+    "main.1df187aa.js.map": "/QuickMart/static/js/main.1df187aa.js.map",
+    "488.8b247e29.chunk.js.map": "/QuickMart/static/js/488.8b247e29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5dfee27.css",
+    "static/js/main.1df187aa.js"
+  ]
+}
